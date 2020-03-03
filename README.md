@@ -6,7 +6,7 @@ Megladon: The Protoss Shark AI here to challenge!
 [![Join the chat at https://gitter.im/megladon-starcraft-2-ai/community](https://badges.gitter.im/megladon-starcraft-2-ai/community.svg)](https://gitter.im/megladon-starcraft-2-ai/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
-  <img width="200" height="300" src="images/logoshaker.png">
+  <img width="200" height="300" src="images/shark-logo.jpg">
 </p>
 
 cocktail-shaker is a **high-performance drug enumeration and expansion
