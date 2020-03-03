@@ -35,8 +35,8 @@ The project will be under heavy development as I find the time to code it (respo
     git clone https://github.com/Sulstice/Cocktail-Shaker.git
 
 
-Structure of cocktail-shaker
-============================
+Structure of Megladon
+=====================
 
 Currently, the main subpackages are:
 
