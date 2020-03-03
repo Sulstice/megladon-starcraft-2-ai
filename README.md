@@ -42,6 +42,17 @@ Currently, the main subpackages are:
 
 -   **megladon**: starcraft 2 main ai package 
 
+Protoss Tree
+============
+
+If you aren't familiar with the protoss tree, depicted below is the unit/building composition as of March 3rd 2020. 
+Megladon has to learn to utilize all units/buildings to learn cost and efficiency utilizing everything avaliable within 
+the protoss race. 
+
+<p align="center">
+  <img width="200" height="300" src="images/shark-logo.jpg">
+</p>
+
 Genesis
 =======
 
