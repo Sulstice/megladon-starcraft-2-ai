@@ -50,7 +50,7 @@ Megladon has to learn to utilize all units/buildings to learn cost and efficienc
 the protoss race. 
 
 <p align="center">
-  <img width="800" height="300" src="images/starcraft-ii-protoss-breakdown.png">
+  <img width="800" height="350" src="images/starcraft-ii-protoss-breakdown.png">
 </p>
 
 Genesis
