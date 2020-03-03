@@ -1,5 +1,5 @@
-Megladon: The Protoss Shark AI here to challenge!
-=================================================
+Megladon: The Protoss Starcraft 2 Shark AI!
+===========================================
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 ![Python](https://img.shields.io/badge/python-3.6-blue.svg)
@@ -9,9 +9,7 @@ Megladon: The Protoss Shark AI here to challenge!
   <img width="200" height="300" src="images/shark-logo.jpg">
 </p>
 
-cocktail-shaker is a **high-performance drug enumeration and expansion
-library**. cocktail-shaker leverages the computational power of
-**RDKit** to create and enumerate large volumes of drug compounds. 
+Megladon is a hyper-aggressive protoss starcraft 2 ai that will be playing in the ai battle arena. Megladon will exhibit shark like behaviour incorporated into it's starcraft 2 play.  
 
 Announcements
 =============
